@@ -1,0 +1,3 @@
+The angry bird animation is uploaded to http://ihome.ust.hk/~ktleungaf/angrybird/ via FTP based FileZilla.
+
+The mood animation is uploaded to http://ihome.ust.hk/~ktleungaf/lab5_mood_published/ via FTP based FileZilla.
